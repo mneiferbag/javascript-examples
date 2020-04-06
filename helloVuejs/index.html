@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!--
+ Copyright (c) 2020 Markus Neifer
+ Licensed under the MIT License.
+ See file LICENSE in parent directory of project root.
+-->
+<html>
+  <head>
+    <title>Title</title>
+    <!-- development version, includes helpful console warnings -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  </head>
+  <body>
+    <p>Body</p>
+    <div id="app">
+      {{ message }}
+    </div>
+    <script>
+        var app = new Vue({
+          el: '#app',
+          data: {
+            message: 'Hello Vue!'
+          }
+        });
+    </script>
+  </body>
+</html>
