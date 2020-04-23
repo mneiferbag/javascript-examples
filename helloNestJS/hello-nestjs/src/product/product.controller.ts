@@ -8,7 +8,7 @@ export class ProductController {
                '<body>' +
                  '<form action="/product" method="post" autocomplete="off">' + 
                    '<p>My product</p>' + 
-                   '<button type="submit" name="product" value="PRD-01">Add to cart</button>' +
+                   '<button type="submit" name="addToCart" value="PRD-01">Add to cart</button>' +
                  '</form>' +
                '</body>' +
              '</html>';

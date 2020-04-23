@@ -8,7 +8,7 @@ export class CartController {
                '<body>' +
                  '<form action="/cart" method="post" autocomplete="off">' + 
                    '<p>My cart</p>' + 
-                   '<button type="submit" name="cart" value="order">Order cart</button>' +
+                   '<button type="submit" name="orderCart" value="order">Order cart</button>' +
                  '</form>' +
                '</body>' +
              '</html>';
@@ -18,7 +18,8 @@ export class CartController {
     orderConfirmation(): string {
       return '<html>' +
                '<body>' +
-                 '<p>Order confirmation numer ORD-0815</p>' + 
+                 '<p><span class="orderConfirmation">Order confirmation numer: </span>' + 
+                 '<span class="orderConfirmationNumber">ORD-0815</span></p>' + 
                '</body>' +
              '</html>';
     }
