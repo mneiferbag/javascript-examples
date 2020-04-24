@@ -4,6 +4,10 @@ Collection of JavaScript code examples. [https://gravatar.com/mneiferbag](https:
 
 Licensed under the MIT License. See file LICENSE.
 
+## Tips
+
+Use `curl --head http://localhost:8080/` to request headers only.
+
 ## Links
 
 * [Express](https://expressjs.com/ "Express")
