@@ -7,5 +7,6 @@ The provided `Dockerfile` can be used to build a Docker image that includes late
 
 Run the application with `npm run start`.
 
-To create a controller using the NestJS CLI, execute the command `nest g controller <name>`.
+Run tests with `npm run test`.
 
+To create a controller using the NestJS CLI, execute the command `nest g controller <name>`.
