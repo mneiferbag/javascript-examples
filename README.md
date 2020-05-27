@@ -16,6 +16,7 @@ Use `curl --head http://localhost:8080/` to request headers only.
 * [Nightwatch.js](https://nightwatchjs.org/ "Nightwatch.js")
 * [Node.js](https://nodejs.org/ "Node.js")
 * [React](https://reactjs.org/ "React")
+    * [Create React App](https://create-react-app.dev/ "Create React App")
 * [SELFHTML-Wiki](https://wiki.selfhtml.org/wiki/Startseite "SELFHTML-Wiki")
 * [TypeScript](https://www.typescriptlang.org/ "TypeScript")
 * [Vue.js](https://vuejs.org/ "Vue.js")
