@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>Test</title>
+    <script type="text/javascript">
+
+      function submitForm(s) {
+        document.myForm.step.value = s;
+        document.myForm.submit();
+        return false;
+      }
+
+    </script>
+  </head>
+  <body>
+    <form name="myForm" action="http://www.ciss.de/">
+      <input type="hidden" name="step" value="1">
+      <input type="radio" name="foobar" value="foobaz">Foobaz<br>
+      <input type="radio" name="foobar" value="wombat">Wombat<br>
+      <input type="button" name="submit" value="Click Me!"
+        onclick="submitForm('0')">
+    </form>
+  </body>
+</html>
