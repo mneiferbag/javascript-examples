@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from '../logo.svg';
 import '../css/App.css';
+import Basket from './Basket';
 import ProductList from './ProductList';
 
 class App extends Component {
@@ -8,7 +9,8 @@ class App extends Component {
   constructor() {
     super()
     this.state = {
-      productList: []
+      productList: [],
+      orderList: []
     }
   }
 
@@ -30,8 +32,6 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <ProductList products={this.state.productList} />
-          <p>{this.state.name}</p>
           <a
             className="App-link"
             href="https://reactjs.org"
@@ -41,6 +41,11 @@ class App extends Component {
             Learn React
         </a>
         </header>
+        <section>
+          <Basket productsToOrder={this.state.orderList} />
+          <hr />
+          <ProductList products={this.state.productList} />
+        </section>
       </div>
     );
   }
