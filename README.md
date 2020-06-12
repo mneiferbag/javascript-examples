@@ -1,6 +1,6 @@
-# JavaScript Examples
+# Web Development Examples
 
-Collection of JavaScript code examples. [https://gravatar.com/mneiferbag](https://gravatar.com/mneiferbag)
+Collection of web development examples. Examples include CSS, HTML, JavaScript, JSON, Node.js, TypeScript.
 
 Licensed under the MIT License. See file LICENSE.
 
