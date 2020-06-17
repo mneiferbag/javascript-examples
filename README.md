@@ -37,5 +37,4 @@ Use `curl --head http://localhost:8080/` to request headers only.
    * [Repl.it](https://repl.it/)
 * Testing
    * [Cypress](https://www.cypress.io/ "Cypress")
-   * [Nightwatch.js](https://nightwatchjs.org/ "Nightwatch.js")
-
+   * [Testing Library](https://testing-library.com/ "Testing Library")
