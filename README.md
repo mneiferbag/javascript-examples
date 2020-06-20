@@ -11,12 +11,9 @@ Use `curl --head http://localhost:8080/` to request headers only.
 ## Links
 
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/ "Can I use... Support tables for HTML5, CSS3, etc")
-* [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/ "ChromeDriver - WebDriver for Chrome")
-* [Elemental Selenium](https://elementalselenium.com/ "Elemental Selenium")
 * [Google Chrome: So könnt ihr den Dark Mode aktivieren - NETZWELT](https://www.netzwelt.de/tutorial/170769-google-chrome-so-dark-mode-aktivieren.html "Google Chrome: So könnt ihr den Dark Mode aktivieren - NETZWELT")
 * [Mozilla Developer Network](https://developer.mozilla.org/ "Mozilla Developer Network")
 * [Node.js](https://nodejs.org/ "Node.js")
-* [Selenium Documentation](https://www.selenium.dev/documentation/en/ "Selenium Documentation")
 * [SELFHTML-Wiki](https://wiki.selfhtml.org/wiki/Startseite "SELFHTML-Wiki")
 * [TypeScript](https://www.typescriptlang.org/ "TypeScript")
 * [What browser am I using? Is my browser up to date?](https://www.whatismybrowser.com/ "What browser am I using? Is my browser up to date?")
@@ -31,10 +28,13 @@ Use `curl --head http://localhost:8080/` to request headers only.
    * [JSON Editor Online](https://jsoneditoronline.org/ "JSON Editor Online")
    * [JSON Schema](http://json-schema.org/ "JSON Schema")
    * [JSON Schema Tool](https://jsonschema.net/ "JSON Schema Tool")
-* Online Development
    * [Online JSON Formatter](https://jsonformatter.org/ "Best JSON Formatter and JSON Validator: Online JSON Formatter")
+* Online Development
    * [Plunker](https://plnkr.co/)
    * [Repl.it](https://repl.it/)
 * Testing
+   * [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/ "ChromeDriver - WebDriver for Chrome")
    * [Cypress](https://www.cypress.io/ "Cypress")
+   * [Elemental Selenium](https://elementalselenium.com/ "Elemental Selenium")
+   * [Selenium Documentation](https://www.selenium.dev/documentation/en/ "Selenium Documentation")
    * [Testing Library](https://testing-library.com/ "Testing Library")
