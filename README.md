@@ -8,6 +8,8 @@ Licensed under the MIT License. See file LICENSE.
 
 Use `curl --head http://localhost:8080/` to request headers only.
 
+If you have problems with file permissions when writing files on your host from within your Docker container, see this blog post from Juan Treminio on [Running Docker Containers as Current Host User](https://jtreminio.com/blog/running-docker-containers-as-current-host-user/).
+
 ## Links
 
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/ "Can I use... Support tables for HTML5, CSS3, etc")
