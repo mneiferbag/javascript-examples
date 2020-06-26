@@ -12,12 +12,12 @@ To create a controller using the NestJS CLI, execute the command `nest g control
 
 # Running
 
-Run the application with `npm run start`.
+Run the application inside the container with `npm run start`.
 
 # Testing
 
-Run Cypress headless in its own container with the following command.
+Run Cypress headless with `docker-compose up`. This will start node and Cypress in separate containers. Use the following command to start node and Cypress UI in separate containers.
 
-    docker run -it -v $PWD/shop-nestjs:/e2e -w /e2e -u node cypress/included:<version>
+    docker-compose -f docker-compose.yml -f cypress-open.yml up
 
 Please note that this writes all files with permissions of user `node`, that exists in the cypress/included image and is inherited from the node image.
