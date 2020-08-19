@@ -37,8 +37,10 @@ If you have problems with file permissions when writing files on your host from 
    * [Plunker](https://plnkr.co/)
    * [Repl.it](https://repl.it/)
 * Testing
+   * [Chai Assertion Library](https://www.chaijs.com/ "Chai Assertion Library")
    * [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/ "ChromeDriver - WebDriver for Chrome")
    * [Cypress](https://www.cypress.io/ "Cypress")
    * [Elemental Selenium](https://elementalselenium.com/ "Elemental Selenium")
+   * [Mocha Test Framework](https://mochajs.org/ "Mocha Test Framework")
    * [Selenium Documentation](https://www.selenium.dev/documentation/en/ "Selenium Documentation")
    * [Testing Library](https://testing-library.com/ "Testing Library")
