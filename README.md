@@ -19,10 +19,14 @@ If you have problems with file permissions when writing files on your host from 
 * [Mozilla Developer Network](https://developer.mozilla.org/ "Mozilla Developer Network")
 * [Node.js](https://nodejs.org/ "Node.js")
 * [SELFHTML-Wiki](https://wiki.selfhtml.org/wiki/Startseite "SELFHTML-Wiki")
+* [Swagger Editor](http://editor.swagger.io/ "Swagger Editor")
+* [Swagger Inspector](https://inspector.swagger.io/builder "Swagger Inspector")
 * [TypeScript](https://www.typescriptlang.org/ "TypeScript")
 * [What browser am I using? Is my browser up to date?](https://www.whatismybrowser.com/ "What browser am I using? Is my browser up to date?")
 * Articles
    * [Karate for Selenium users](https://medium.com/@mneiferbag/karate-for-selenium-users-875a165823ee)
+* Books
+   * [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/ "Deep JavaScript: Theory and techniques")
 * Frameworks
    * [Express](https://expressjs.com/ "Express")
    * [NestJS](https://nestjs.com/ "NestJS")
@@ -43,4 +47,5 @@ If you have problems with file permissions when writing files on your host from 
    * [Elemental Selenium](https://elementalselenium.com/ "Elemental Selenium")
    * [Mocha Test Framework](https://mochajs.org/ "Mocha Test Framework")
    * [Selenium Documentation](https://www.selenium.dev/documentation/en/ "Selenium Documentation")
+   * [Telerik Fiddler](https://www.telerik.com/fiddler "Telerik Fiddler")
    * [Testing Library](https://testing-library.com/ "Testing Library")
