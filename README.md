@@ -8,6 +8,10 @@ Licensed under the MIT License. See file LICENSE.
 
 Use `curl --head http://localhost:8080/` to request headers only.
 
+## Docker
+
+See [https://auth0.com/blog/use-docker-to-create-a-node-development-environment/](https://auth0.com/blog/use-docker-to-create-a-node-development-environment/).
+
 For testing with Cypress and Docker, see [Run Cypress with a single Docker command](https://www.cypress.io/blog/2019/05/02/run-cypress-with-a-single-docker-command/) from Gleb Bahmutov.
 
 If you have problems with file permissions when writing files on your host from within your Docker container, see this blog post from Juan Treminio on [Running Docker Containers as Current Host User](https://jtreminio.com/blog/running-docker-containers-as-current-host-user/).
