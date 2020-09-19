@@ -18,7 +18,7 @@ If you have problems with file permissions when writing files on your host from 
 
 ## Node
 
-To check if any module in a project is outdated use `npm outdated`. To update all dependencies after making changes to `package.json`, use `npm update`.
+To check if any module in a project is outdated use `npm outdated`. To update all dependencies use `npm update`.
 
 ## Links
 
