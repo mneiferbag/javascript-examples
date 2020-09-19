@@ -10,7 +10,7 @@ docker run \
   --name mhn-node-tmp \
   -v $PWD:/home/app \
   -w /home/app \
-  -p 8080:8080  \
+  -p 8080:3000  \
   -u node \
   node:latest \
   /bin/bash
