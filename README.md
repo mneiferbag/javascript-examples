@@ -16,6 +16,10 @@ For testing with Cypress and Docker, see [Run Cypress with a single Docker comma
 
 If you have problems with file permissions when writing files on your host from within your Docker container, see this blog post from Juan Treminio on [Running Docker Containers as Current Host User](https://jtreminio.com/blog/running-docker-containers-as-current-host-user/).
 
+## Node
+
+To check if any module in a project is outdated use `npm outdated`. To update all dependencies after making changes to `package.json`, use `npm update`.
+
 ## Links
 
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/ "Can I use... Support tables for HTML5, CSS3, etc")
