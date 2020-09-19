@@ -10,7 +10,7 @@ Use `curl --head http://localhost:8080/` to request headers only.
 
 ## Docker
 
-See [https://auth0.com/blog/use-docker-to-create-a-node-development-environment/](https://auth0.com/blog/use-docker-to-create-a-node-development-environment/).
+See [Use Docker to Create a Node Development Environment](https://auth0.com/blog/use-docker-to-create-a-node-development-environment/) and [How To Setup Your Local Node.js Development Environment Using Docker - Part1](https://www.docker.com/blog/how-to-setup-your-local-node-js-development-environment-using-docker/) and [Part 2](https://www.docker.com/blog/how-to-setup-your-local-node-js-development-environment-using-docker-part-2/).
 
 For testing with Cypress and Docker, see [Run Cypress with a single Docker command](https://www.cypress.io/blog/2019/05/02/run-cypress-with-a-single-docker-command/) from Gleb Bahmutov.
 
