@@ -1,4 +1,4 @@
-import * as wasm from './hello_wasm_bg.wasm';
+import * as wasm from './mhn_hello_wasm_bg.wasm';
 
 const lTextDecoder = typeof TextDecoder === 'undefined' ? (0, module.require)('util').TextDecoder : TextDecoder;
 
@@ -83,7 +83,7 @@ export function greet(name) {
     wasm.greet(ptr0, len0);
 }
 
-export const __wbg_alert_a5a2f68cc09adc6e = function(arg0, arg1) {
+export const __wbg_alert_9e23882b3755ab59 = function(arg0, arg1) {
     alert(getStringFromWasm0(arg0, arg1));
 };
 
