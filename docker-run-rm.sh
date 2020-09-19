@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Copyright (c) 2020 Markus Neifer
-# Licensed under the MIT License. See LICENSE in the project root for license information.
+# Licensed under the MIT License. See LICENSE file for license information.
 #
 
 docker run \
