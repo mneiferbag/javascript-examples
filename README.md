@@ -53,7 +53,9 @@ To check if any module in a project is outdated use `npm outdated`. To update al
    * [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/ "ChromeDriver - WebDriver for Chrome")
    * [Cypress](https://www.cypress.io/ "Cypress")
    * [Elemental Selenium](https://elementalselenium.com/ "Elemental Selenium")
+   * [fast-check](https://dubzzz.github.io/fast-check.github.com/) - a library for property-based testing
    * [Mocha Test Framework](https://mochajs.org/ "Mocha Test Framework")
    * [Selenium Documentation](https://www.selenium.dev/documentation/en/ "Selenium Documentation")
    * [Telerik Fiddler](https://www.telerik.com/fiddler "Telerik Fiddler")
    * [Testing Library](https://testing-library.com/ "Testing Library")
+   * [WebdriverIO](https://webdriver.io/ "WebdriverIO")
