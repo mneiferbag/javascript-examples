@@ -1,8 +1,8 @@
 # Web Development Examples
 
-Collection of web development examples. Examples include CSS, HTML, JavaScript, JSON, Node.js, TypeScript.
-
 Licensed under the MIT License. See file LICENSE.
+
+Collection of web development examples. Examples include CSS, HTML, JavaScript, JSON, Node.js, TypeScript.
 
 ## Tips
 
@@ -15,6 +15,11 @@ See [Use Docker to Create a Node Development Environment](https://auth0.com/blog
 For testing with Cypress and Docker, see [Run Cypress with a single Docker command](https://www.cypress.io/blog/2019/05/02/run-cypress-with-a-single-docker-command/) from Gleb Bahmutov.
 
 If you have problems with file permissions when writing files on your host from within your Docker container, see this blog post from Juan Treminio on [Running Docker Containers as Current Host User](https://jtreminio.com/blog/running-docker-containers-as-current-host-user/).
+
+Add editors to containers by adding `apt-get` to `Dockerfile`.
+
+    RUN apt-get update && \
+        apt-get install -y nano vim
 
 ## Node
 

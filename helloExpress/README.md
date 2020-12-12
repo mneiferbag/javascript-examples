@@ -1,7 +1,6 @@
-JavaScript Express Example
-==========================
+# JavaScript Express Example
 
-License see file LICENSE in parent directory.
+Licensed under the MIT License. See file LICENSE in parent directory.
 
 This was created using the following commands.
 
@@ -10,4 +9,3 @@ This was created using the following commands.
 Use `entry point: (index.js)`. After initialisation has finished, install Express framework.
 
     npm install express --save
-

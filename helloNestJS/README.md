@@ -1,5 +1,4 @@
-JavaScript NestJS Example
-=========================
+# JavaScript NestJS Example
 
 Licensed under the MIT License. See file LICENSE in parent directory.
 
