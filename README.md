@@ -2,7 +2,7 @@
 
 Licensed under the MIT License. See file LICENSE.
 
-Collection of web development examples. Examples include CSS, HTML, JavaScript, JSON, Node.js, TypeScript.
+Collection of web development examples. Examples include CSS, HTML, JavaScript, JSON, Node.js.
 
 ## Tips
 
@@ -35,7 +35,6 @@ To check if any module in a project is outdated use `npm outdated`. To update al
 * [SELFHTML-Wiki](https://wiki.selfhtml.org/wiki/Startseite "SELFHTML-Wiki")
 * [Swagger Editor](http://editor.swagger.io/ "Swagger Editor")
 * [Swagger Inspector](https://inspector.swagger.io/builder "Swagger Inspector")
-* [TypeScript](https://www.typescriptlang.org/ "TypeScript")
 * [What browser am I using? Is my browser up to date?](https://www.whatismybrowser.com/ "What browser am I using? Is my browser up to date?")
 * Articles
    * [Karate for Selenium users](https://medium.com/@mneiferbag/karate-for-selenium-users-875a165823ee)
