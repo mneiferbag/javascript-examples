@@ -28,7 +28,7 @@ To check if any module in a project is outdated use `npm outdated`. To update al
 ## Links
 
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/ "Can I use... Support tables for HTML5, CSS3, etc")
-* [Deno](https://github.com/mneiferbag/javascript-deno)
+* [Deno Example](https://github.com/mneiferbag/javascript-deno)
 * [Google Chrome: So könnt ihr den Dark Mode aktivieren - NETZWELT](https://www.netzwelt.de/tutorial/170769-google-chrome-so-dark-mode-aktivieren.html "Google Chrome: So könnt ihr den Dark Mode aktivieren - NETZWELT")
 * [Mozilla Developer Network](https://developer.mozilla.org/ "Mozilla Developer Network")
 * [Node.js](https://nodejs.org/ "Node.js")
@@ -41,9 +41,7 @@ To check if any module in a project is outdated use `npm outdated`. To update al
 * Books
    * [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/ "Deep JavaScript: Theory and techniques")
 * Frameworks
-   * [Express](https://expressjs.com/ "Express")
-   * [NestJS](https://nestjs.com/ "NestJS")
-   * [React](https://reactjs.org/ "React")
+   * [NestJS Example](https://github.com/mneiferbag/javascript-nestjs)
    * [Vue.js](https://vuejs.org/ "Vue.js")
 * JSON
    * [JSON Editor Online](https://jsoneditoronline.org/ "JSON Editor Online")
