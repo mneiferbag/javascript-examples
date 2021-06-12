@@ -1,1 +1,0 @@
-See [Compiling from Rust to WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm) and [Bytecode im Browser: Mit WebAssembly und Rust zur Web-Anwendung](https://www.heise.de/hintergrund/Bytecode-im-Browser-Mit-WebAssembly-und-Rust-zur-Web-Anwendung-4963283.html).
