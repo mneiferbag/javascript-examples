@@ -29,6 +29,7 @@ To check if any module in a project is outdated use `npm outdated`. To update al
 
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/ "Can I use... Support tables for HTML5, CSS3, etc")
 * [Deno Example](https://github.com/mneiferbag/javascript-deno)
+* [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of fake data in the browser and node.js
 * [Google Chrome: So könnt ihr den Dark Mode aktivieren - NETZWELT](https://www.netzwelt.de/tutorial/170769-google-chrome-so-dark-mode-aktivieren.html "Google Chrome: So könnt ihr den Dark Mode aktivieren - NETZWELT")
 * [Mozilla Developer Network](https://developer.mozilla.org/ "Mozilla Developer Network")
 * [Node.js](https://nodejs.org/ "Node.js")
