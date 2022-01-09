@@ -27,6 +27,7 @@ To check if any module in a project is outdated use `npm outdated`. To update al
 * [Deno Examples](https://github.com/mneiferbag/deno-examples)
 * [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of fake data in the browser and node.js
 * [Node.js](https://nodejs.org/ "Node.js")
+* [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 * [What browser am I using? Is my browser up to date?](https://www.whatismybrowser.com/ "What browser am I using? Is my browser up to date?")
 * Articles
    * [Karate for Selenium users](https://medium.com/@mneiferbag/karate-for-selenium-users-875a165823ee)
@@ -43,6 +44,7 @@ To check if any module in a project is outdated use `npm outdated`. To update al
    * [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/ "ChromeDriver - WebDriver for Chrome")
    * [Cypress](https://www.cypress.io/ "Cypress")
    * [Elemental Selenium](https://elementalselenium.com/ "Elemental Selenium")
+   * [ESLint](https://eslint.org/) statically analyzes your code to quickly find problems
    * [fast-check](https://dubzzz.github.io/fast-check.github.com/) - a library for property-based testing
    * [Mocha Test Framework](https://mochajs.org/ "Mocha Test Framework")
    * [Selenium Documentation](https://www.selenium.dev/documentation/en/ "Selenium Documentation")
