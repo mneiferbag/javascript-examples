@@ -41,7 +41,7 @@ To check if any module in a project is outdated use `npm outdated`. To update al
    * [Online JSON Formatter](https://jsonformatter.org/ "Best JSON Formatter and JSON Validator: Online JSON Formatter")
 * Testing
    * [Chai Assertion Library](https://www.chaijs.com/ "Chai Assertion Library")
-   * [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/ "ChromeDriver - WebDriver for Chrome")
+   * [ChromeDriver - WebDriver for Chrome](https://sites.google.com/chromium.org/driver/)
    * [Cypress](https://www.cypress.io/ "Cypress")
    * [Elemental Selenium](https://elementalselenium.com/ "Elemental Selenium")
    * [ESLint](https://eslint.org/) statically analyzes your code to quickly find problems
