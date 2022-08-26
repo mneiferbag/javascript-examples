@@ -31,9 +31,6 @@ To check if any module in a project is outdated use `npm outdated`. To update al
 * [What browser am I using? Is my browser up to date?](https://www.whatismybrowser.com/ "What browser am I using? Is my browser up to date?")
 * Articles
    * [Karate for Selenium users](https://medium.com/@mneiferbag/karate-for-selenium-users-875a165823ee)
-* Frameworks
-   * [NestJS Example](https://github.com/mneiferbag/javascript-nestjs)
-   * [Vue.js](https://vuejs.org/ "Vue.js")
 * JSON
    * [JSON Editor Online](https://jsoneditoronline.org/ "JSON Editor Online")
    * [JSON Schema](http://json-schema.org/ "JSON Schema")
