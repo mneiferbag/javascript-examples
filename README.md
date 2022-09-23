@@ -39,7 +39,7 @@ To check if any module in a project is outdated use `npm outdated`. To update al
 * Testing
    * [Chai Assertion Library](https://www.chaijs.com/ "Chai Assertion Library")
    * [ChromeDriver - WebDriver for Chrome](https://sites.google.com/chromium.org/driver/)
-   * [Cypress](https://www.cypress.io/ "Cypress")
+   * [Cypress Example](https://github.com/mneiferbag/javascript-cypress)
    * [Elemental Selenium](https://elementalselenium.com/ "Elemental Selenium")
    * [ESLint](https://eslint.org/) statically analyzes your code to quickly find problems
    * [fast-check](https://dubzzz.github.io/fast-check.github.com/) - a library for property-based testing
