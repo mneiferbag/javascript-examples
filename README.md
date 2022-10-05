@@ -23,7 +23,7 @@ To check if any module in a project is outdated use `npm outdated`. To update al
 
 ## Tips
 
-Node.js has two module systems: CommonJS modules and ECMAScript (ES) modules. CommonJS can be recognized by the use of the require() function and module.exports, while ECMAScript modules use import and export statements for similar (though not identical) functionality.
+Node.js has two module systems: CommonJS modules and ECMAScript (ES) modules. CommonJS can be recognized by the use of the `require()` function and `module.exports`, while ECMAScript modules use `import` and `export` statements for similar (though not identical) functionality.
 
 ## Links
 
