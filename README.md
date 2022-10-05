@@ -1,8 +1,8 @@
 # Web Development Examples
 
-Licensed under the MIT License. See file LICENSE.
+Licensed under the MIT License. See file [LICENSE](./LICENSE).
 
-Collection of web development examples. Examples include CSS, HTML, JavaScript, JSON, Node.js.
+Collection of web development examples. Examples include CSS, HTML, JavaScript, JSON, Node.js, TypeScript.
 
 ## Docker
 
@@ -20,6 +20,10 @@ Add editors to containers by adding `apt-get` to `Dockerfile`.
 ## Node
 
 To check if any module in a project is outdated use `npm outdated`. To update all dependencies use `npm update`.
+
+## Tips
+
+Node.js has two module systems: CommonJS modules and ECMAScript (ES) modules. CommonJS can be recognized by the use of the require() function and module.exports, while ECMAScript modules use import and export statements for similar (though not identical) functionality.
 
 ## Links
 
