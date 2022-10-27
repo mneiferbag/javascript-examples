@@ -29,8 +29,9 @@ Node.js has two module systems: CommonJS modules and ECMAScript (ES) modules. Co
 
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/ "Can I use... Support tables for HTML5, CSS3, etc")
 * [Deno Examples](https://github.com/mneiferbag/deno-examples)
-* [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of fake data in the browser and node.js
-* [Node.js](https://nodejs.org/ "Node.js")
+* [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of fake data in the browser and Node.js
+* [HTTP Cats](https://http.cat/)
+* [Node.js](https://nodejs.org/)
 * [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 * [What browser am I using? Is my browser up to date?](https://www.whatismybrowser.com/ "What browser am I using? Is my browser up to date?")
 * Articles
